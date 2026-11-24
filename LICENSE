@@ -1,0 +1,27 @@
+Dreamcast Films: licences
+=========================
+
+Copyright (c) 2026 Jilted Valkyrie.
+
+These works are free and are never to be sold. Two licences cover what is in this repository:
+
+1. THE CODE: the PolyForm Noncommercial License 1.0.0 (LICENSES/PolyForm-Noncommercial-1.0.0.txt).
+   That is every program and build file: in each film's folder the C sources and headers (for the first film:
+   matchlight.c, matchlight_scene.h), the tests, the Makefile, and the Python tools under tools/.
+   Required Notice: Copyright (c) 2026 Jilted Valkyrie (https://x.com/jiltedvalkyrie)
+
+2. THE FILM CONTENT: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+   (LICENSES/CC-BY-NC-SA-4.0.txt). That is the narration text (narration.json), the credit cards' text
+   (credits.json), the prose of the README and other documents, any art of the author's in the repository, and
+   the film as a work: its staging, shots and timing as the tables describe them.
+
+Not covered by either licence:
+
+- Third-party work keeps its own licence: the libraries the films are built with (KallistiOS, SH4ZAM, SH4DER-PVR, each a
+  separate checkout with its own licence), the fonts, the sounds and the music a build fetches. Each film's
+  THIRD_PARTY_NOTICES.md and CREDITS.md list them, and its LICENSES/ folder holds their texts.
+- Nothing that is not in this repository is licensed by it. A disc image of a film may carry a narrator's recording,
+  title art and licensed sound effects that are not here: those stay with their owners and may not be taken out of
+  an image and used elsewhere.
+- The tale "The Little Match Girl" by Hans Christian Andersen is in the public domain.
+- "Sega" and "Dreamcast" are trademarks of their owner; these are unofficial works and no trademark right is given.
